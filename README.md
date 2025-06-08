@@ -7,7 +7,6 @@
 </p>
 
 ###  About Me
-
 -  I’m currently working as a **Freelancer** in:
   -  Mobile/Desktop Development (Flutter/Dart, C++/Qt)
   -  Backend Development (Python/FastAPI, Node.js/Express)
@@ -17,7 +16,7 @@
 
 - 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
 
-> ⚠ You can find my lost GitHub account [here](https://github.com/mortzaCFT)
+>  You can find my lost GitHub account [here](https://github.com/mortzaCFT)
 ---
 
 <p align="center">
@@ -25,8 +24,6 @@
 </p>
 
 ---
-
-### 🧩 My Dev Stack
 
 <p align="center">
 <p align="center">
