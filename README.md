@@ -32,5 +32,5 @@
 ### 🧩 My Dev Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python,nodejs,express,fastapi,solidity,mongodb,postgresql,docker,linux,git,web3" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python,nodejs,express,fastapi,solidity,mongodb,docker,web3" />
 </p>
