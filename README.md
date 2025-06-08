@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SmartContract-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
----
 
 ###  About Me
 
