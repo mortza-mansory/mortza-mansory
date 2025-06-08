@@ -24,9 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mortza-mansory&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortza-mansory&layout=compact&theme=radical" width="300" />
- <img src="https://github-profile-trophy.vercel.app/?username=mortza-mansory&theme=algolia" />
-
 </p>
 
 ---
@@ -34,5 +31,9 @@
 ### 🧩 My Dev Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python,nodejs,express,fastapi,solidity,truffle,ganach,mongodb,docker,web3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python,nodejs,express,fastapi,solidity,mongodb,docker,web3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/truffle/truffle-original.svg" width="40" title="Truffle" />
+  <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="40" title="Ganache" />
+</p>
 </p>
