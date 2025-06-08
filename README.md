@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mortza Mansory</h1>
+<h1 align="center">Hi, I'm Mortza Mansory</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile_Dev-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -7,12 +7,12 @@
 </p>
 
 ###  About Me
--  I’m currently working as a **Freelancer** in:
+-  I'm currently working as a Software Developer in the following areas:
   -  Mobile/Desktop Development (Flutter/Dart, C++/Qt)
   -  Backend Development (Python/FastAPI, Node.js/Express)
   -  Blockchain & Smart Contract Development (Solidity, EVM, Web3.js)
 
--  I’m interested in **Application Development** and **Blockchain (DApps, smart contract-based systems)**
+-  I'm interested in **Application Development** and **Blockchain (DApps, smart contract based systems)**
 
 - 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
 
