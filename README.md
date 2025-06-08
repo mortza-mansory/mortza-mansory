@@ -1,15 +1,37 @@
-- 👋 Hi, I’m @mortza-mansory
-  
-- I’m a software developer experienced in building client side applications such as mobile and desktop apps (using Dart/Flutter and C++/Qt), as well as server side (backend) applications like RESTful APIs (using Python/FastAPI or minimal Express.js APIs with Node.js).
+<h1 align="center">Hi 👋, I'm Mortza Mansory</h1>
 
-- 👀 I’m interested in Application Development and Blockchain( Dapps and smart contract based softwares)!...
-<!---
-- 🌱 I’m currently learning   ...
---->
-- 📫 How to reach me? Telegram: @dashclss ... ( https://t.me/dashclss )
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile_Dev-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SmartContract-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+</p>
+---
 
-< Attention: You can find my lost account here: https://github.com/mortzaCFT > 
-<!---
-mortza-mansory/mortza-mansory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###  About Me
+
+-  I’m currently working as a **Freelancer** in:
+  -  Mobile/Desktop Development (Flutter/Dart, C++/Qt)
+  -  Backend Development (Python/FastAPI, Node.js/Express)
+  -  Blockchain & Smart Contract Development (Solidity, EVM, Web3.js)
+
+-  I’m interested in **Application Development** and **Blockchain (DApps, smart contract-based systems)**
+
+- 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
+
+> ⚠ You can find my lost GitHub account [here](https://github.com/mortzaCFT)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mortza-mansory&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortza-mansory&layout=compact&theme=radical" width="300" />
+</p>
+
+---
+
+### 🧩 My Dev Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python,nodejs,express,fastapi,solidity,mongodb,postgresql,docker,linux,git,web3" />
+</p>
