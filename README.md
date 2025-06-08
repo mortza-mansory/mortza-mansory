@@ -18,10 +18,10 @@
 
 >  You can find my lost GitHub account [here](https://github.com/mortzaCFT)
 ---
-
-<p align="center">
+<!---<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mortza-mansory&show_icons=true&theme=radical" width="400" />
-</p>
+</p>--->
+
 
 ---
 
