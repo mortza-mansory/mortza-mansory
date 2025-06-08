@@ -17,7 +17,6 @@
 - 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
 
 >  You can find my lost GitHub account [here](https://github.com/mortzaCFT)
----
 <!---<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mortza-mansory&show_icons=true&theme=radical" width="400" />
 </p>--->
@@ -28,7 +27,8 @@
 <p align="center">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python,nodejs,express,fastapi,solidity,mongodb,docker,web3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/truffle/truffle-original.svg" width="40" title="Truffle" />
-  <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" width="40" title="Ganache" />
 </p>
 </p>
+
+![Truffle](https://img.shields.io/badge/Truffle-8A6BA1?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-333333?style=for-the-badge&logo=ethereum&logoColor=yellow)
