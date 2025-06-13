@@ -8,8 +8,8 @@
 
 ###  About Me
 -  I'm currently working as a Software Developer in the following areas:
-  -  Mobile/Desktop Development (Flutter/Dart, C++/Qt)
-  -  Backend Development (Python/FastAPI, Node.js/Express)
+  -  Mobile/Desktop Development (Flutter/Dart)
+  -  Backend Development (Python/FastAPI)
   -  Blockchain & Smart Contract Development (Solidity, EVM, Web3.js)
 
 -  I'm interested in **Application Development** and **Blockchain (DApps, smart contract based systems)**
