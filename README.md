@@ -14,6 +14,9 @@
 
 -  I'm interested in **Application Development** and **Blockchain (DApps, smart contract based systems)**
 
+-  I'm currently learning **Go** and backend development with Go
+-  I have a little knowledge about JavaScript and currently learning **Vite with VanJS**
+
 - 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
 
 >  You can find my lost GitHub account [here](https://github.com/mortzaCFT)
@@ -24,9 +27,9 @@
 
 ---
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -39,5 +42,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux(Specially debian!)](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VanJS](https://img.shields.io/badge/VanJS-2D9CDB?style=for-the-badge&logo=javascript&logoColor=white)
+![VanJS](https://vanjs.org/icon.png)
