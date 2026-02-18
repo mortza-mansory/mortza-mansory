@@ -2,21 +2,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile_Dev-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Go_Stdlib-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/SmartContract-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ###  About Me
 -  I'm currently working as a Software Developer in the following areas:
   -  Mobile/Desktop Development (Flutter/Dart)
-  -  Backend Development (Python/FastAPI)
+  -  Backend Development (Go/stdLib)
   -  Blockchain & Smart Contract Development (Solidity, EVM, Web3.js)
 
 -  I'm interested in **Application Development** and **Blockchain (DApps, smart contract based systems)**
 
-
-## I'm currently learning **Go** and backend development with Go
--  I have a little knowledge about JavaScript and currently learning **Vite with VanJS**
 
 - 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
 
