@@ -14,7 +14,8 @@
 
 -  I'm interested in **Application Development** and **Blockchain (DApps, smart contract based systems)**
 
--  I'm currently learning **Go** and backend development with Go
+
+## I'm currently learning **Go** and backend development with Go
 -  I have a little knowledge about JavaScript and currently learning **Vite with VanJS**
 
 - 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
