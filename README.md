@@ -31,7 +31,6 @@
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ![Truffle](https://img.shields.io/badge/Truffle-8A6BA1?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Ganache](https://img.shields.io/badge/Ganache-333333?style=for-the-badge&logo=ethereum&logoColor=yellow)
