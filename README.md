@@ -8,9 +8,9 @@
 ###  About Me
 -  I'm currently working as a Software Developer in the following areas:
   -  Mobile/Desktop Development (Flutter/Dart)
-  -  Backend Development (Go/stdLib)
+  -  Backend Development (Go/stdLib/Fiber)
 
--  I'm interested in **Application Development** and **Blockchain (DApps, smart contract based systems)**
+-  I'm interested in **Application Development** and **Backend Developments**
 
 
 - 📫 Reach me on Telegram: [@dashclss](https://t.me/dashclss)
@@ -25,9 +25,8 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-4C4C4C?style=for-the-badge&logo=ethereum&logoColor=white)
 
